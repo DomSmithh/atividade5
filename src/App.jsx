@@ -47,8 +47,8 @@ function App(){
   return (
     <div>
       {palavras_chaves.map((button) => {
-        return <Button botao={button.button1} />;
-      }) };
+        return <Button button1={button.button1} />
+      }) }
     </div>
   )
 }

@@ -1,10 +1,10 @@
 import "./Button.css";
 
-function Button({botao}){
+function Button({button1}){
     return(
 
         <button className="container">
-            {botao}
+            {button1}
         </button>
 
     );
