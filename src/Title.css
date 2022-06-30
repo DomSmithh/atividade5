@@ -1,0 +1,13 @@
+.container{
+
+    margin: 0px 24px 0px 24px;
+    display: inline-flex;
+    flex-direction: row-reverse;
+
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+}
+
+.title{
+    margin: 10px;
+}
